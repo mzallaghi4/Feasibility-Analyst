@@ -29,14 +29,6 @@ The application is fully bilingual (English/Persian) with RTL support.
 - Node.js 20+ (for local frontend dev)
 - Python 3.12+ (for local backend dev)
 
-### Quick Start with Docker
-```bash
-git clone https://github.com/your-org/feasibility-analyst.git
-cd feasibility-analyst
-cp .env.example .env
-docker-compose up --build
-
-
 
 
 
