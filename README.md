@@ -35,3 +35,14 @@ git clone https://github.com/your-org/feasibility-analyst.git
 cd feasibility-analyst
 cp .env.example .env
 docker-compose up --build
+
+
+
+
+
+LICENSE
+Copyright © 2026 Iran Finance. All rights reserved.
+
+No permission to use, copy, modify, distribute, sublicense, or sell this software is granted by this notice.
+
+Contact the rights holder to request authorization. The repository author is Mehdi Zallaghi.
